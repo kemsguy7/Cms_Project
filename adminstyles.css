@@ -1,14 +1,18 @@
-body{
-    background-color: #2f4050;
+*{
+    padding:0;
+    margin:0;
 }
-
+body{
+    padding-top:20px;
+    background-color: white;
+}
 .col-sm-10{
     background-color: #ffffff !important;
 }
 #white{
     background-color: #ffffff;
 }
-#sidemen a{
+#sidemenu a{
     color: #9fb1c2;
 }
 #Side_Menu .active a{
