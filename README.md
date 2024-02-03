@@ -1,3 +1,3 @@
 # Cms_Project
 
-A simple blogging website using php
+A simple blogging website using php and MySQL 
